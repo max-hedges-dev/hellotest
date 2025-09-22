@@ -1,5 +1,6 @@
 # Ignore Python venv
 testenv/
+venv/
 
 # Ignore cache
 __pycache__/
