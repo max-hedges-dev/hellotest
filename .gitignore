@@ -1,0 +1,9 @@
+# Ignore Python venv
+testenv/
+
+# Ignore cache
+__pycache__/
+*.py[cod]
+
+# Ignore VS Code settings
+.vscode/
